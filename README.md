@@ -1,4 +1,4 @@
-# Basic NFT Marketplace project## Deployment
+# Basic NFT Marketplace project
 
 To deploy this project
 
